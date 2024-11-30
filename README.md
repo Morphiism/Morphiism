@@ -1,7 +1,7 @@
 # Readme
 
 - I’m @Morphiism.
-- An undergraduate student.
+- An undergraduate student in Tongji University.
 
 <!---
 Morphiism/Morphiism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
